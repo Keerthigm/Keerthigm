@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Keerthigm
 - 👀 I’m interested in coding for the new world
-- 🌱 I’m currently learning python,sql,java,aws
+- 🌱 I’m currently learning Psql,java,aws,Git,spring,docker,IntelliJ,Eclipse,postman etc.
 - 💞️ I’m looking to collaborate on creative jobs
 - 📫 How to reach me is through email keerthanamanamurugan@gmail.com
 
